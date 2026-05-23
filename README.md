@@ -2,7 +2,7 @@
 
 A mini visual website builder built with **Next.js 16**, **TypeScript**, and **React 19**. Click pre-made sections onto a canvas, edit their properties, reorder with drag-and-drop, and export or import your layout as JSON. Publish finished pages to a shareable URL.
 
-**Live demo:** _Add your deployed URL here (e.g. Vercel)_
+**Live demo:** _https://rekaz-website-builder-beta.vercel.app_
 
 ## Requirements coverage
 
